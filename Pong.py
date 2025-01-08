@@ -1,6 +1,5 @@
 import pygame
 from Menu_selection import player_get
-import csv
 Player = player_get
 pygame.init()
 WIDTH = 1280
